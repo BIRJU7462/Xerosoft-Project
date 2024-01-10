@@ -22,5 +22,5 @@ Authentication</b>.
 ![logo](https://github.com/ShubhamKJ123/Login-and-Registration-using-JSP-SERVLET-JDBC-MySQL/blob/master/ss/p3.png)
 ![logo](https://github.com/ShubhamKJ123/Login-and-Registration-using-JSP-SERVLET-JDBC-MySQL/blob/master/ss/p4.png)
 ![logo](https://github.com/ShubhamKJ123/Login-and-Registration-using-JSP-SERVLET-JDBC-MySQL/blob/master/ss/p5.png)
-![logo](https://github.com/ShubhamKJ123/Login-and-Registration-using-JSP-SERVLET-JDBC-MySQL/blob/master/ss/p6.png)
+
 
